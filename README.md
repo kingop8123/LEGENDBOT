@@ -52,7 +52,7 @@
 
 - First Fork This Repo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrvk1703/LEGENDBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingop8123/LEGENDBOT)
 
 
 - Change Name Of Repo
